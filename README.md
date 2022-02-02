@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jeeva
 - 👀 I’m interested in coding&Webdeveloper
 - 🌱 I’m currently learning B.E computer science engineering
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on internship in any company
 - 📫 How to reach me 6379851364
 
 <!---
